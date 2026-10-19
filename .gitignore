@@ -1,0 +1,12 @@
+# XAMPP / PHP
+*.log
+*.tmp
+.env
+
+# Dépendances
+/vendor/
+node_modules/
+
+# Système
+Thumbs.db
+.DS_Store
