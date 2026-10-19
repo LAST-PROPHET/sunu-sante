@@ -1,0 +1,8 @@
+{
+    "name": "lastprophet/sunu-sante",
+    "description": "Sunu Sante - Application de santé",
+    "type": "project",
+    "require": {
+        "php": ">=8.1"
+    }
+}
